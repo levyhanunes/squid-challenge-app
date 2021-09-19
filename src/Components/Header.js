@@ -10,7 +10,7 @@ const Header = () => {
         <Link className={styles.logo} to="/" aria-label="Squid App - Home">
           <Dogs />
         </Link>
-        <Link className={styles.login} to="/login">
+        <Link className={styles.login} to="/dashboard">
           Dashboard
         </Link>
       </nav>
