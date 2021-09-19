@@ -2,6 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/levyhanunes/squid-challenge-app/master/Assets/readme/Resultado.png" alt="exemplo imagem">
 
+##Link para o projeto: <a href="https://squid-challenge-app.netlify.app" target=”_blank”>https://squid-challenge-app.netlify.app</a>
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
