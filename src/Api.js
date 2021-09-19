@@ -10,3 +10,13 @@ export function PEGAR_FOTOS() {
     },
   };
 }
+
+export function PEGA_FOTOS() {
+  return {
+    url: API,
+    options: {
+      method: 'GET',
+      cache: 'no-store',
+    },
+  };
+}
