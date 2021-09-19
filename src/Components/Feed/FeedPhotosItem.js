@@ -1,11 +1,10 @@
 import React from 'react'
 
-function FeedPhotosItem() {
-    return (
-        <div>
-            
-        </div>
-    )
-}
+const FeedPhotosItem = ({photo}) => {
+    return <li>
+        <img src={photo.imagens.resolucaoPadrao.url} alt ={photo.criadoEm}/>
+        <span>{photo.impressions}</span>
+    </li>;
+};
 
 export default FeedPhotosItem
